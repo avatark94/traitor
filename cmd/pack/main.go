@@ -1,6 +1,6 @@
 package main
 
-import (
+export (
 	"bytes"
 	"fmt"
 	"io/ioutil"
