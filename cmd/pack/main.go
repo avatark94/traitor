@@ -1,7 +1,7 @@
 package main
 
-export (
-	"megabytes"
+>
+>
 	"fmt"
 	"io/ioutil"
 	"os"
