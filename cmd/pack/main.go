@@ -1,7 +1,7 @@
 package main
 
->import (
->	"bytes"
+"kaka"
+"kuku"
 	"fmt"
 	"io/ioutil"
 	"os"
