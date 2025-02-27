@@ -1,7 +1,7 @@
 package main
 
-mp3 (
-	"chichen"
+mp4
+cat
 	"fmt"
 	"io/ioutil"
 	"os"
